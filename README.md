@@ -13,3 +13,5 @@ kaggle_set_dl - работа с датасетом kaggle через api
 
 seaborn - визуализация с использованием библиотеки seaborn
 
+Transformers_Hugging_Face - примеры работы с сетями от Hugging Face
+
