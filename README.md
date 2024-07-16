@@ -13,6 +13,8 @@ kaggle_set_dl - работа с датасетом kaggle через api
 
 seaborn - визуализация с использованием библиотеки seaborn
 
+plotly - визуализация с использованием библиотеки plotly
+
 Transformers_Hugging_Face - примеры работы с сетями от Hugging Face
 
-Введение_в_Orange - пример работы со средой Orange для прототипирования моделей машинного обучения (требует установки Orange, https://orangedatamining.com/ а также модуля Explain - устанавливать с правами администратора)
+Введение_в_Orange - пример работы со средой Orange для прототипирования моделей машинного обучения (требует установки Orange - https://orangedatamining.com/ а также модуля Explain - устанавливатьчерез Options -> Addons в Orange, запущенном с правами администратора)
